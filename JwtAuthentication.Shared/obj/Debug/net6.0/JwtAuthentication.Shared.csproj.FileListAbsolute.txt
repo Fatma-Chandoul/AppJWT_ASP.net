@@ -1,0 +1,12 @@
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\bin\Debug\net6.0\JwtAuthentication.Shared.deps.json
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\bin\Debug\net6.0\JwtAuthentication.Shared.dll
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\bin\Debug\net6.0\JwtAuthentication.Shared.pdb
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\obj\Debug\net6.0\JwtAuthentication.Shared.csproj.AssemblyReference.cache
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\obj\Debug\net6.0\JwtAuthentication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\obj\Debug\net6.0\JwtAuthentication.Shared.AssemblyInfoInputs.cache
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\obj\Debug\net6.0\JwtAuthentication.Shared.AssemblyInfo.cs
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\obj\Debug\net6.0\JwtAuthentication.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\obj\Debug\net6.0\JwtAuthentication.Shared.dll
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\obj\Debug\net6.0\refint\JwtAuthentication.Shared.dll
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\obj\Debug\net6.0\JwtAuthentication.Shared.pdb
+C:\Users\Fatma\source\repos\JwtApplication1\JwtAuthentication.Shared\obj\Debug\net6.0\ref\JwtAuthentication.Shared.dll
